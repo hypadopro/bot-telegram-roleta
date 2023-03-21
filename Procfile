@@ -1,0 +1,1 @@
+web: python Comando_adicionar_auto_canal_hypebot_roleta_free.py
